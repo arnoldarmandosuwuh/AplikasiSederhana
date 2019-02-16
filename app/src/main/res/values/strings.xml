@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aplikasi Sederhana</string>
+    <string name="hello_my_name_arnold">Hello!</string>
+    <string name="menu">Menu</string>
+    <string name="ini_button_kok">Ini Bukan Button</string>
+    <string name="minuman">Minuman</string>
+</resources>
